@@ -1,0 +1,128 @@
+{
+  "questionsThree": [
+    {
+      "question": "What was the name of the disciple NOT picked to replace Judas?",
+      "answers": [
+        "joseph",
+        "barsabbas",
+        "justus"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Who was the first recorded Martyr in the Bible?",
+      "answers": [
+        "stephen",
+        "steven"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What is the name of the rider on a white horse in Revelation?",
+      "answers": [
+        "faithful and true"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Who converted the Ethiopian eunuch?",
+      "answers": [
+        "philip"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Who were the first apostles called to follow Jesus? (Ex. Bob and Larry)",
+      "answers": [
+        "peter and andrew",
+        "andrew and peter",
+        "peter, andrew",
+        "andrew, peter"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Who recognized Jesus as the Messiah when he was presented at the Temple as a baby?",
+      "answers": [
+        "simeon"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Who asked Pilate for Jesus’ body after the crucifixion?",
+      "answers": [
+        "joseph of arimathea",
+        "joseph"
+      ],
+      "answered": false
+    },
+    {
+      "question": "To what city was Saul traveling when he encountered a great and blinding light?",
+      "answers": [
+        "damascus"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Who was the first person to come upon the injured man in the parable of the Good Samaritan?",
+      "answers": [
+        "priest",
+        "the priest",
+        "a priest"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What tribe is Paul from?",
+      "answers": [
+        "benjamin",
+        "tribe of benjamin",
+        "the tribe of benjamin"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What does Simon Peter do for a living before he becomes an apostle?",
+      "answers": [
+        "fisherman",
+        "he was a fisherman",
+        "he's a fisherman",
+        "fish",
+        "caught fish",
+        "he caught fish",
+        "a fisherman",
+        "was a fisherman"
+      ],
+      "answered": false
+    },
+    {
+      "question": "How many large fish did the apostles catch when the ressurected Jesus told them to throw their nets on right side of the boat? (Answer in integer form Ex. 1,2,3)",
+      "answers": [
+        "153"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What type of insect did John the Baptist eat in the dessert?",
+      "answers": [
+        "locusts",
+        "locust"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What is 1 'I am' Statements that Jesus Says?",
+      "answers": [
+        "i am the bread of life",
+        "i am the light of the world",
+        "i am the ressurection and the life",
+        "i am the good shepherd",
+        "i am the way",
+        "i am the truth",
+        "i am the vine",
+        "i am the life"
+      ],
+      "answered": false
+    }
+  ]
+}

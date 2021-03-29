@@ -1,0 +1,160 @@
+{
+  "questionsTwoOld": [
+    {
+      "question": "What was Obed's dad's name?",
+      "answers": [
+        "boaz"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Who was Moeses' father?",
+      "answers": [
+        "amram"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Name one spy besides Joshua and Caleb?",
+      "answers": [
+        "shammua",
+        "shaphat",
+        "igal",
+        "palti",
+        "gaddiel",
+        "gaddi",
+        "ammiel",
+        "sethur",
+        "nahbi",
+        "geuel"
+      ],
+      "answered": false
+    },
+    {
+      "question": "How many books are in the old testament? (Answer in integer Ex. 1,2,3)",
+      "answers": [
+        "39"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What kind of bird brought Elijah food while he hid in the Kerith Ravine, east of Jordan?",
+      "answers": [
+        "ravens",
+        "raven"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What tribe sent out spies like Moses did?",
+      "answers": [
+        "dan"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What kind of meat did God provide for the Israelites in the desert?",
+      "answers": [
+        "quail"
+      ],
+      "answered": false
+    },
+    {
+      "question": "In whose field did Ruth glean leftover grain?",
+      "answers": [
+        "boaz",
+        "boaz's"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What did God provide for Abraham to offer as a burnt offering instead of his son Isaac?",
+      "answers": [
+        "ram",
+        "a ram"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Who was known as 'the weeping prophet'?",
+      "answers": [
+        "jeremiah"
+      ],
+      "answered": false
+    },
+    {
+      "question": "How many decks did Noah's ark have? (Answer in integer form, Ex. 1,2,3)",
+      "answers": [
+        "3"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Which of the twelve tribes provided Israel with its first king?",
+      "answers": [
+        "benjamin"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Who called down Fire?",
+      "answers": [
+        "elijah"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Who was the mother of Samuel?",
+      "answers": [
+        "hannah"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Which Israelite tribe was not counted in the first census?",
+      "answers": [
+        "levi",
+        "the tribe of levi",
+        "tribe of levi",
+        "the levites",
+        "levites"
+      ],
+      "answered": false
+    },
+    {
+      "question": "At what age were the Levites required to retire from active service at the tent of meeting? (Answer in Integer form)",
+      "answers": [
+        "50"
+      ],
+      "answered": false
+    },
+    {
+      "question": "How many sons did Gideon have?",
+      "answers": [
+        "71"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Which King burned the prophet Jeremiah's scroll?",
+      "answers": [
+        "jehoiakim"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Who was king of the southern kingdom when the northern kingdom of Israel fell to Assyria?",
+      "answers": [
+        "hezekiah"
+      ],
+      "answered": false
+    },
+    {
+      "question": "The southern kingdom eventually fell also, but to which great power?",
+      "answers": [
+        "babylon"
+      ],
+      "answered": false
+    }
+  ]
+}
