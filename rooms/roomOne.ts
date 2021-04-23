@@ -1,6 +1,6 @@
 module.exports = {
   async roomOne(msg, client, questions, stats) {
-    let numberOfQuestions = 20;
+    let numberOfQuestions = questions.length;
     let time = 0;
     setInterval(() => {
       time++;

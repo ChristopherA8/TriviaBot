@@ -226,13 +226,6 @@
       "answered": false
     },
     {
-      "question": "Where did Paul bid farewell to the Elders of Ephesus?",
-      "answers": [
-        "Miletus"
-      ],
-      "answered": false
-    },
-    {
       "question": "According to the New Testament, in what city will there be no light?",
       "answers": [
         "New Jerusalem"
@@ -264,13 +257,6 @@
       "question": "Who amazed his comrades by surviving the bite of a viper?",
       "answers": [
         "Paul"
-      ],
-      "answered": false
-    },
-    {
-      "question": "What 5 Books in the New Testament have only 1 Chapter? Please Write Whole Book Names. Put in Alphabetical order, Start with Numbers.",
-      "answers": [
-        "2 John, 3 John, Jude, Obadiah, Philemon"
       ],
       "answered": false
     }
