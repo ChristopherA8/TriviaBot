@@ -44,7 +44,9 @@ module.exports = {
             }
 
             if (
-              question.answers.some((v) => m.content.toLowerCase().includes(v))
+              question.answers.some((v) =>
+                m.content.toLowerCase().includes(v.toLowerCase())
+              )
             ) {
               questionCollector.stop();
               embed.setTitle(`Congrats 🎉`);
