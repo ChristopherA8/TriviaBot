@@ -1,0 +1,3 @@
+# TriviaBot
+
+Trivia discord bot
