@@ -20,7 +20,8 @@
     {
       "question": "What is the name of the rider on a white horse in Revelation?",
       "answers": [
-        "faithful and true"
+        "faithful and true",
+        "True and faithful"
       ],
       "answered": false
     },
@@ -96,7 +97,7 @@
       "answered": false
     },
     {
-      "question": "How many large fish did the apostles catch when the ressurected Jesus told them to throw their nets on right side of the boat? (Answer in integer form Ex. 1,2,3)",
+      "question": "How many large fish did the apostles catch when the resurrected Jesus told them to throw their nets on right side of the boat? (Answer in integer form Ex. 1,2,3)",
       "answers": [
         "153"
       ],
@@ -121,6 +122,155 @@
         "i am the truth",
         "i am the vine",
         "i am the life"
+      ],
+      "answered": false
+    },
+    {
+      "question": "How many parables are in the Gospel of John? Please enter in Integer Form (ie. 1, 2, 3)",
+      "answers": [
+        "0"
+      ],
+      "answered": false
+    },
+    {
+      "question": "How many books of the New Testament did Paul Write? Please enter in Integer Form (ie. 1, 2, 3)",
+      "answers": [
+        "13"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What book and Chapter is the Armor of God Found in?",
+      "answers": [
+        "Ephesians 6",
+        "Eph 6"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Where is the Hall of Faith found? (Book and Chapter)",
+      "answers": [
+        "Hebrews 11",
+        "Heb 11"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What King did Paul tell the story of his conversion to?",
+      "answers": [
+        "Agrippa"
+      ],
+      "answered": false
+    },
+    {
+      "question": "How many Angels will be at the gates of the New Jerusalem? Please enter in integer form (ie. 1, 2, 3)",
+      "answers": [
+        "12"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Who had vision of four angels holding the four winds of the earth?",
+      "answers": [
+        "John"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Which gospel says that an angel rolled away the stone from Jesus' tomb?",
+      "answers": [
+        "Matthew"
+      ],
+      "answered": false
+    },
+    {
+      "question": "How many Angels pour out the bowls of wrath on the Earth? Please enter in integer form (ie. 1, 2, 3)",
+      "answers": [
+        "7"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What is the name of the town where Philip converted Simon the Sorcerer?",
+      "answers": [
+        "Samaria"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What was the Original name of Paul?",
+      "answers": [
+        "Saul"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What city was said by John to have Satan's Seat?",
+      "answers": [
+        "Pergamos"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What city was said to have Christians that were neither hot nor cold?",
+      "answers": [
+        "Laodicea"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What was Jesus' hometown?",
+      "answers": [
+        "Nazareth"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Where did Paul bid farewell to the Elders of Ephesus?",
+      "answers": [
+        "Miletus"
+      ],
+      "answered": false
+    },
+    {
+      "question": "According to the New Testament, in what city will there be no light?",
+      "answers": [
+        "New Jerusalem"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What friend did Jesus mourn?",
+      "answers": [
+        "Lazarus"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What is the Shortest Book in the New Testament?",
+      "answers": [
+        "Jude"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What is the Last Word in the Bible?",
+      "answers": [
+        "Amen"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Who amazed his comrades by surviving the bite of a viper?",
+      "answers": [
+        "Paul"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What 5 Books in the New Testament have only 1 Chapter? Please Write Whole Book Names. Put in Alphabetical order, Start with Numbers.",
+      "answers": [
+        "2 John, 3 John, Jude, Obadiah, Philemon"
       ],
       "answered": false
     }

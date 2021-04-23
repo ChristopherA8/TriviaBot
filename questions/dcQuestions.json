@@ -1,0 +1,165 @@
+{
+  "dcQuestions": [
+    {
+      "question": "What is David's Birthday? Month and Day",
+      "answers": [
+        "January 2",
+        "1/2",
+        "Jan 2"
+      ],
+      "answered": false
+    },
+    {
+      "question": "When was David Baptized? Month Day Year",
+      "answers": [
+        "May 9, 2012",
+        "5/9/2012",
+        "5/9/12"
+      ],
+      "answered": false
+    },
+    {
+      "question": "How many Hope Trips has David Gone on? Use Integers.",
+      "answers": [
+        "3"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What 3 Cities has David lived in? Put in Order of Life.",
+      "answers": [
+        "San Antonio, Lubbock, Dallas"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What is David's Favorite Color?",
+      "answers": [
+        "Silver",
+        "Black",
+        "Blue"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What is David's Life Motto?",
+      "answers": [
+        "Seek Discomfort"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What is one of David's Favorite Scripture? Use Full Book name and Chapter",
+      "answers": [
+        "James 1",
+        "Psalm 133",
+        "2 Corinthians 5"
+      ],
+      "answered": false
+    },
+    {
+      "question": "How many Countries has David Gone to? Type in a number.",
+      "answers": [
+        "15"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What is David's Favorite YouTube channel??",
+      "answers": [
+        "MrBeast",
+        "Yes Theory",
+        "Mark Rober"
+      ],
+      "answered": false
+    },
+    {
+      "question": "How many siblings does David have? Type in number.",
+      "answers": [
+        "2"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What Company first hired David?",
+      "answers": [
+        "Hilton"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Which Hogwarts House does David belong to?",
+      "answers": [
+        "Slytherin"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What is David's favorite Food to make??",
+      "answers": [
+        "Italian",
+        "Mexican"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What is David's Favorite Musical?",
+      "answers": [
+        "Hamilton",
+        "Wicked"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What city was David born in?",
+      "answers": [
+        "Shanghai"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What is David's Favorite book in the Bible?",
+      "answers": [
+        "James"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What instrument did David play for Eleven years?",
+      "answers": [
+        "Violin"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What did David get a Degree in?",
+      "answers": [
+        "Hospitality Management"
+      ],
+      "answered": false
+    },
+    {
+      "question": "What is one of David's Hobbies?",
+      "answers": [
+        "Travel",
+        "Skydiving",
+        "Planning Events",
+        "Hanging with Teens"
+      ],
+      "answered": false
+    },
+    {
+      "question": "Where does David want to Go this summer?",
+      "answers": [
+        "Egypt",
+        "Israel",
+        "Jordan",
+        "Middle East",
+        "Iran",
+        "Iraq",
+        "Afghanistan"
+      ],
+      "answered": false
+    }
+  ]
+}
